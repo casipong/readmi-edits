@@ -1,1 +1,2 @@
-# readmi-edits
+# readme-edits
+ i love movies like horror
